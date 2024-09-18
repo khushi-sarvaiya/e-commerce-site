@@ -1,5 +1,6 @@
 import "./App.css";
 import About from "./Comonents/About";
+import Fetures from "./Comonents/Fetures";
 import Product from "./Comonents/Product";
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div>
       <Product/>
       <About />
+      <Fetures/>
     </div>
   );
 }
